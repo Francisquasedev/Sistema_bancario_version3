@@ -6,4 +6,15 @@ Bem-vindo ao Sistema Bancário em Python! Este projeto é uma aplicação que si
 -**Depósitos:** Realize depósitos na conta;  
 -**Saques:** Efetue saques respeitando os limites definidos;  
 -**Extratos:** Visualize o histórico de transações de uma conta.
-## :technologist: Tecnologias  Utilizadas
+## :technologist: Tecnologias Utilizadas
+* **Python 3.9+**
+* **Paradigma de Orientação a Objetos**
+* **PEP 257:** Documentação e Docstrings
+## :memo: Estrutura do Projeto
+### Classes Principais:
+**`PessoaFisica`:**
+Representa uma pessoa física com CPF, nome e data de nascimento.
+## :pencil2: Iniciando
+## :heavy_plus_sign: Contribuição
+## :page_facing_up: Licença
+## :globe_with_meridians: Contato
