@@ -6,8 +6,8 @@ Bem-vindo ao Sistema Bancário em Python! Este projeto é uma aplicação que si
 -**Depósitos:** Realize depósitos na conta;  
 -**Saques:** Efetue saques respeitando os limites definidos;  
 -**Extratos:** Visualize o histórico de transações de uma conta.
-## :technologist: Tecnologias Utilizadas
-* **Python 3.9+**
+## :technologist: Tecnologias Utilizadas  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * **Paradigma de Orientação a Objetos**
 * **PEP 257:** Documentação e Docstrings
 ## :memo: Estrutura do Projeto
@@ -40,8 +40,21 @@ Transação de saque.
 ### Instalação  
 1. Clone o repositório:
 ```
-
+git clone https://github.com/Francisquasedev/Sistema_bancario_version3.git
 ```
-## :heavy_plus_sign: Contribuição
-## :page_facing_up: Licença
-## :globe_with_meridians: Contato
+2. Execute o script principal:
+```
+python sistema_bancario_v3.py
+```
+3. Siga as instruções no menu para utilizar as funcionalidades do sistema.
+## :heavy_plus_sign: Contribuição  
+Contribuições são sempre bem-vindas! Para contribuir:  
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (**`git checkout -b feature/nova-feature`**).
+3. Commit suas mudanças (**`git commit -m 'Adiciona nova feature'`**).
+4. Faça um push para a branch (**`git push origin feature/nova-feature`**).
+5. Abra um Pull Request.
+## :page_facing_up: Licença  
+Este projeto está licenciado sob a  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+## :globe_with_meridians: Contato  
+Francis Monteles - [LinkedIn](www.linkedin.com/in/francis-monteles) - quasedev@protonmail.com 
