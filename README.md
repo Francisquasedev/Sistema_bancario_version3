@@ -13,7 +13,7 @@ Bem-vindo ao Sistema Bancário em Python! Este projeto é uma aplicação que si
 ## :memo: Estrutura do Projeto
 ### Classes Principais:
 **`PessoaFisica`:**
-Representa uma pessoa física com CPF, nome e data de nascimento.
+Representa uma pessoa física com CPF, nome e data de nascimento.  
 **`Cliente`:**
 Representa um cliente do banco.  
 **`Conta`:**
